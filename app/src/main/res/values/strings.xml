@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjercicioBasico1</string>
+    <string name="txtNumero1">Ingresa el primero número</string>
+    <string name="txtNumero2">Ingresa el segundo número</string>
+    <string name="txtSumar">Sumar</string>
+
+
+</resources>
